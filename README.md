@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Furqan Samoh! 👋
 
-<!--
-**furzzzzzz/furzzzzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student at GMI with a strong foundation in the full SDLC, specializing in translating complex requirements into precise technical blueprints and logic flows. I have successfully engineered
+automated system logic and UML suites with accuracy.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Interests
+
+* 💻 Software Development
+* 🧠 AI & Machine Learning
+* 📱 Mobile Development
+
+---
+
+## 💻 Tech Stack
+
+* **Languages:** Python · Java · Jupyter Notebook · C
+* **Frameworks & Tools:** PyTorch · React Native · React
+* **AI/ML:** NumPy · Pandas · Matplotlib
+* **Other:** Git · GitHub · Figma
+
+---
+
+## 📚 Currently Learning
+
+* Database & Structure
+* Java & Javascript
+* Better code practices
+
+---
+
+## 🌐 Let's Connect
+
+* 💼 **LinkedIn:** www.linkedin.com/in/furqan-samoh
+* 📧 **Email:** furqansamoh@gmail.com
+
+---
+
+> "Coding stuff that matters." 💡
