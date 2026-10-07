@@ -7,9 +7,9 @@ automated system logic and UML suites with accuracy.
 
 ## 🧠 Interests
 
+* 📑 Project Manager
 * 💻 Software Development
-* 🧠 AI & Machine Learning
-* 📱 Mobile Development
+* 📊 Data Analayst
 
 ---
 
