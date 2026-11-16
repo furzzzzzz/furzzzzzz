@@ -7,7 +7,7 @@ automated system logic and UML suites with accuracy.
 
 ## 🧠 Interests
 
-* 📑 Project Manager
+* 📑 Project Management
 * 💻 Software Development
 * 📊 Data Analayst
 
